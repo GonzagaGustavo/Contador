@@ -22,10 +22,10 @@ font-size: 40px;
 }
 button{
     font-family: Georgia, 'Times New Roman', Times, serif;
-    
+    background-color: blue;
 }
 body{
-    
+
     text-align: center;
     background-color: black;
     min-height: 100vh;  
