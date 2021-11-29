@@ -1,2 +1,2 @@
 # Contador
-https://contador123.netlify.app/
+<a href="https://contador123.netlify.app/">Clique aqui!</a>
