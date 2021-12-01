@@ -23,6 +23,8 @@ font-size: 40px;
 button{
     font-family: Georgia, 'Times New Roman', Times, serif;
     background-color: blue;
+    border: solid 1px blue;
+    border-radius: 7px;
 }
 body{
 
